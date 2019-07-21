@@ -2,7 +2,7 @@
 
 ### Sort Algorithms:
 - Selection Sort
-- Bubble Sort ✔️
+- Bubble Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
@@ -13,7 +13,7 @@
 ### Search Algorithms:
 - Depth First Search
 - Breadth First Search
-- Binary Search ✔️
+- Binary Search
 
 ### Data Structures:
 - Stack
@@ -65,4 +65,3 @@
 - Least Recently Used Cache
   - get(key) - Gets the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.  
   - put(key, value) - Sets or inserts the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.  
-  - *Related Leetcode Question: https://leetcode.com/problems/lru-cache/*

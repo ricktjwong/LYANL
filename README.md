@@ -11,7 +11,6 @@ We're looking to support these languages for a start (version in parenthesis):
 - Ruby (2.4+)
 - Scala (2.12+)
 - ReasonML (3.2+)
-- Rust (1.33+)
 
 ### Sort Algorithms:
 - Selection Sort
